@@ -1,6 +1,8 @@
 # clientDemo
 一个用walk框架写的windowsGUI示例(golang) / A windows GUI demo written by walk framework(golang)
 
+功能点包括:输入框,密码行,登录,系统托盘,页面切换,窗口最大化禁用,窗口尺寸禁止修改等 / Function nodes include: input box, password line, login, system tray, page switching, window maximization disabled, window size disabled, etc
+
 # 项目结构 / Project Structure
 1:主目录(clientDemo)
 
