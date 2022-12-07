@@ -3,11 +3,9 @@
 
 # 项目结构 / Project Structure
 1:主目录(clientDemo)
-
 master directory(clientDemo)
 
 2:资源目录(clientDemo/resource)[包含图片和manifest声明打包文件]
-
 resource directory(clientDemo/resource)[Include imgs and manifest files]
 
 3:服务目录(clientDemo/service)[包含所有非ui相关的功能]
