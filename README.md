@@ -3,24 +3,31 @@
 
 # 项目结构 / Project Structure
 1:主目录(clientDemo)
+
 master directory(clientDemo)
 
 2:资源目录(clientDemo/resource)[包含图片和manifest声明打包文件]
+
 resource directory(clientDemo/resource)[Include imgs and manifest files]
 
 3:服务目录(clientDemo/service)[包含所有非ui相关的功能]
+
 service directory(clientDemo/service)[Include all functions except ui]
 
 4:界面目录(clientDemo/ui)[包含所有ui功能]
+
 ui directory(clientDemo/ui)[Include all ui functions]
 
 5:main.go[程序入口]
+
 main.go[Program entry]
 
 6:clientDemo.syso[由rsrc工具执行生成]
+
 clientDemo.syso[Generate by rsrc tool]
 
 7:go.mod[golang的包管理文件]
+
 go.mod[Package management file of golang]
 
 # 步骤 / Steps
